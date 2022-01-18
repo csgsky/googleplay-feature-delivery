@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":features:cats" external.linked.project.path="$MODULE_DIR$/../../../../features/cats" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="PlayFeatureDelivery.features" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":features:cats" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../features/cats/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../shared/build/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/csgsky/.gradle/caches/transforms-3/99991b7b3330f3ea6721d6ca264df996/transformed/jetified-viewbinding-7.0.2-api.jar:/Users/csgsky/.gradle/caches/transforms-3/0c204be9c1fcefa9318daf97a42bb400/transformed/jetified-koin-android-3.1.2-api.jar:/Users/csgsky/.gradle/caches/transforms-3/0ac15499b831ee2ae0dcf4d1654e95a3/transformed/jetified-koin-core-jvm-3.1.2.jar:/Users/csgsky/.gradle/caches/transforms-3/802cd940588aa977b3c14d5b016ca96f/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/transforms-3/2dba6575d34ed9802ff511d4b7735b6d/transformed/jetified-lifecycle-runtime-ktx-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/transforms-3/e1c98fd78f0acda7173a1300040bc24f/transformed/jetified-core-ktx-1.8.1-api.jar:/Users/csgsky/.gradle/caches/transforms-3/34e81371a0ea0e4deacdec510ac8578c/transformed/jetified-kotlinx-coroutines-android-1.5.1.jar:/Users/csgsky/.gradle/caches/transforms-3/defb1e184066e977f671cfce4f0c2c2d/transformed/jetified-lifecycle-livedata-ktx-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/transforms-3/0b6eb40bf8ebea2c2321b4cd65033f7d/transformed/jetified-kotlinx-coroutines-core-jvm-1.5.1.jar:/Users/csgsky/.gradle/caches/transforms-3/833254afe5270fc8eb34dd3a8fcd9335/transformed/jetified-kotlin-stdlib-jdk8-1.5.31.jar:/Users/csgsky/.gradle/caches/transforms-3/e13926283e2774059f21023489102cd5/transformed/jetified-core-ktx-1.7.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/ec505355985c6e9d401458c59c27a05f/transformed/material-1.4.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/a45c46e7b805348bfcf226ce11c348db/transformed/appcompat-1.3.1-api.jar:/Users/csgsky/.gradle/caches/transforms-3/a9e9d51490720adb5f4d5a8980b56ac4/transformed/jetified-viewpager2-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/fc5a3532e7b83ed13b3cdad2430c5b86/transformed/lifecycle-extensions-2.2.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/0e86386d08e17e7bdb99f057d66bf7ee/transformed/fragment-1.3.6-api.jar:/Users/csgsky/.gradle/caches/transforms-3/916fd5f2e3664c33d4954acbd0a4f188/transformed/jetified-activity-1.2.4-api.jar:/Users/csgsky/.gradle/caches/transforms-3/89750261247b2c08682a4ea3d8e462c0/transformed/jetified-appcompat-resources-1.3.1-api.jar:/Users/csgsky/.gradle/caches/transforms-3/8aec2d5db9f2606342708e481c3b3597/transformed/drawerlayout-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/6cf49038805937fe528cd791cef7e46e/transformed/coordinatorlayout-1.1.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/435a9cd53146adf9ec961a8b0312b91f/transformed/dynamicanimation-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/bb49d1d72f4a5a89cd2c3d90753e0668/transformed/recyclerview-1.1.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/b66041d8f90f479bbd1fba055261c45b/transformed/transition-1.2.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/869fc6a99e8fc304c22eaa7353b1b84c/transformed/vectordrawable-animated-1.1.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/a33677d6a35ea214087f8fa7d0a04b4b/transformed/vectordrawable-1.1.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/cd2baf75a05623f4993d92932f40e559/transformed/viewpager-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/a229cf0e45e2c0f597653042ae805201/transformed/legacy-support-core-utils-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/5392fbbe89e9693d93ed6270931414d8/transformed/loader-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/0853615cc95f57e91d7398810ccf7d5a/transformed/customview-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/4179737cc99c971bc7f658db8b37e73b/transformed/core-1.7.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/9b8cf5aece63778963c8f2bd77881257/transformed/cursoradapter-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/0898962f81aae67f53ceb7e5d4e4fde4/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1-api.jar:/Users/csgsky/.gradle/caches/transforms-3/e201dbd3a027244bfbedcbdd4e0c6b29/transformed/jetified-savedstate-1.1.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/3552a7d27396b6f50965a542c5bd6220/transformed/cardview-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/a7b0290a6146d2ff5aa787fea127fade/transformed/lifecycle-runtime-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/transforms-3/1639b9bf3e1322cfd41b3a43f9809ef6/transformed/lifecycle-viewmodel-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/transforms-3/99176b76654fc961238725fb4b5d48cc/transformed/versionedparcelable-1.1.1-api.jar:/Users/csgsky/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/csgsky/.gradle/caches/transforms-3/b28aaf982d09be9f6886b676231fdd06/transformed/lifecycle-livedata-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/transforms-3/476e6c54bd7a134381e2891e0b7a9b77/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/transforms-3/d8ef999639b406d8e5518ae59bf371d4/transformed/lifecycle-livedata-core-2.4.0-beta01-api.jar:/Users/csgsky/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0-beta01/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0-beta01.jar:/Users/csgsky/.gradle/caches/transforms-3/d3d43969c05c6fadd390c2dc93c9893a/transformed/core-runtime-2.1.0-api.jar:/Users/csgsky/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/csgsky/.gradle/caches/transforms-3/5b6620542ac495d7b86256fadf0b6474/transformed/interpolator-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/a6978c7211c64dce2ea71e129ee7a94b/transformed/documentfile-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/fd1f3282cb4afdea2240ee2946c9ec24/transformed/localbroadcastmanager-1.0.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/6d0dfed02bed7d84a37614d5cf3758ac/transformed/print-1.0.0-api.jar:/Users/csgsky/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar:/Users/csgsky/.gradle/caches/transforms-3/c02058f1aa20fbb9c4adc6aa30f189a3/transformed/jetified-kotlin-stdlib-jdk7-1.5.31.jar:/Users/csgsky/.gradle/caches/transforms-3/d43d6472aaf3033bc468e7111adc5ab6/transformed/jetified-kotlin-stdlib-1.5.31.jar:/Users/csgsky/.gradle/caches/transforms-3/bc58258300ce11dbb561df400d754de0/transformed/jetified-annotations-13.0.jar:/Users/csgsky/.gradle/caches/transforms-3/aef4ac48fdbfe3a0001b5d95e8676c86/transformed/jetified-kotlin-stdlib-common-1.5.31.jar:/Users/csgsky/.gradle/caches/transforms-3/a31d6a00d15fd68c0e6903c345ea3311/transformed/jetified-annotation-experimental-1.1.0-api.jar:/Users/csgsky/.gradle/caches/transforms-3/a0abbe3292e459f2b9efd38f24f7e732/transformed/constraintlayout-2.1.1-api.jar:/Users/csgsky/.gradle/caches/transforms-3/c3524e1c08f28005a46d4e021eaab519/transformed/jetified-core-1.10.2-api.jar:/Users/csgsky/.gradle/caches/transforms-3/127a22e1667661a34b150f42b4b4226c/transformed/jetified-lottie-4.1.0-api.jar:/Users/csgsky/Library/Android/sdk/platforms/android-31/android.jar:/Users/csgsky/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="cats_debug" />
+          <option name="languageVersion" value="1.5" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../features/cats">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../features/cats/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../features/cats/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
